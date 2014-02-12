@@ -1,0 +1,20 @@
+[
+{
+  "modid": "ExtraFoods",
+  "name": "Extra Foods Mod",
+  "description": "The official Extra Foods mod! Adds many foods to the wonderful game of Minecraft!",
+  "version": "0.0.1",
+  "url": "Sorry, there is no url available",
+  "updateUrl": "",
+  "authorList": [
+    "Xtronius_ (The only developer -_-"
+  ],
+  "credits": "To all the people out there that I learned how to mod from",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
